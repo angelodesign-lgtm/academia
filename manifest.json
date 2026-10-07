@@ -1,0 +1,10 @@
+{
+  "name": "SkyFit Treinos",
+  "short_name": "SkyFit",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#06111d",
+  "theme_color": "#071421",
+  "lang": "pt-BR",
+  "icons": []
+}
